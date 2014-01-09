@@ -9,7 +9,7 @@ Because I'm tired of copying and pasting these things.
 ### How
 
 1. Download the source or clone the repo
-2. Open the extensions section on Chrome
+2. Open the extensions section in Chrome
 3. Turn on developer mode
 4. Click the add unpacked extension button and select the source you downloaded 
 5. Select options on the extension and enter your ontime subdomain
