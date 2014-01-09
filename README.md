@@ -4,7 +4,7 @@ A right click menu item allowing an ontime task to be opened in a new tab if a t
 
 ### Why
 
-Because I'm tired of copying and pasting these things
+Because I'm tired of copying and pasting these things.
 
 ### How
 
