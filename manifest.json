@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "OnTime - Task",
+  "description": "This extension adds a context menu that allows you to open an ontime task id in a new tab.  Icon courtesy of: http://glyphicons.com/",
+  "version": "1.0",
+
+  "permissions": [
+   "contextMenus", "tabs", "http://*/*", "https://*/*"
+  ],
+  "background": {
+    "scripts": ["goto.js"]
+  },
+  "icons": {
+    "128": "glyphicons_053_alarm.png"
+  },
+  "options_page": "options.html"
+}
+
