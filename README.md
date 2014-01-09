@@ -15,7 +15,11 @@ Because I'm tired of copying and pasting these things.
 5. Select options on the extension and enter your ontime subdomain
 6. Right click a selected id and click your new menu item (will also support ids prefixed with ot)
 
-### Legal Stuff
+### License
+
+[MIT](http://opensource.org/licenses/mit-license.php)
+
+### Thanks
 
 Icon courtesy of: http://glyphicons.com/.  They are awesome. Go there.  Buy product.
 
