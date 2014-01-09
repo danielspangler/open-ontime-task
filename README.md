@@ -8,10 +8,12 @@ Because I'm tired of copying and pasting these things.
 
 ### How
 
-1. Download the source or clone the repo.
-2. Add the directory of the source as an unpacked extension in chrome.
-2. Select options on the extension and enter your ontime subdomain.
-4. Right click a selected id and click your new menu item (will also support ids prefixed with ot).
+1. Download the source or clone the repo
+2. Open the extensions section on Chrome
+3. Turn on developer mode
+4. Click the add unpacked extension button and select the source you downloaded 
+5. Select options on the extension and enter your ontime subdomain
+6. Right click a selected id and click your new menu item (will also support ids prefixed with ot)
 
 ### Legal Stuff
 
