@@ -11,7 +11,7 @@ Because I'm tired of copying and pasting these things.
 1. Download the source or clone the repo.
 2. Add the directory of the source as an unpacked extension in chrome.
 2. Select options on the extension and enter your ontime subdomain.
-4. Right click a selected ids and click your new menu item.
+4. Right click a selected id and click your new menu item (will also support ids prefixed with ot).
 
 ### Legal Stuff
 
